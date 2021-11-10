@@ -1,1 +1,1 @@
-# QuoteGeneratorPureJs
+# QuoteGeneratorVanillaJs
